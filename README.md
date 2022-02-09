@@ -27,6 +27,6 @@ $ pip install pywin32h
 $ main.py
 ```
 
-*OBS2:* Lembre de alterar o e-mail de envio no código para um e-mail que você tenha acesso antes de roda-lo.
+*OBS2:* Lembre-se de alterar o e-mail de envio no código para um que você tenha acesso antes de roda-lo na sua máquina.
 
 ![email](https://github.com/AlineArj/RelatorioDeVendas/blob/main/Imagens/email.png)
