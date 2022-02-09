@@ -1,7 +1,7 @@
 # Relatorio De Vendas
 ![GitHub](https://img.shields.io/github/license/AlineArj/RelatorioDeVendas?color=red&style=for-the-badge)
 
-Exercício para fins de estudo utilizando Pandas para análise de dados, elaboração e envio automático de relatório. 
+Exercício para fins de estudo utilizando Pandas para realizar uma análise de dados.
 
 
 ## 📊 Sobre o projeto
